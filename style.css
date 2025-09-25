@@ -1,0 +1,13 @@
+/* Extra styling with CSS */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#taskList li {
+  cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
